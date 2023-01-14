@@ -4,7 +4,7 @@ You can visit this project at: <a href="https://matiasmass.github.io/component.g
 
 ## Desktop version:
 <p align="center">
-<a href="https://postimg.cc/cgG05Jhh" target="_blank"><img src="https://i.postimg.cc/d1L33kTb/1.png" alt="1"  width="1843" height="908"/></a><br/><br/>
+<a href="https://postimg.cc/cgG05Jhh" target="_blank"><img src="https://i.postimg.cc/d1L33kTb/1.png" alt="1"  width="1100" height="541"/></a><br/><br/>
 
 </p>
 
